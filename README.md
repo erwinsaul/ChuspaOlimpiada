@@ -1,6 +1,7 @@
 # ChuspaOlimpiada
 
-> Plataforma digital para la gestión, registro y seguimiento de competencias y olimpiadas académicas.
+> Chuspa Olimpiada es una plataforma digital para la gestión, registro y seguimiento de 
+la Olimpiada Cientifica de la Facultad Nacional de Ingenieria.
 
 ## ¿Qué es?
 
