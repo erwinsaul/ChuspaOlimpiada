@@ -1,6 +1,6 @@
-# [Nombre del Proyecto]
+# ChuspaOlimpiada
 
-> Una línea que describe qué hace el proyecto.
+> Plataforma digital para la gestión, registro y seguimiento de competencias y olimpiadas académicas.
 
 ## ¿Qué es?
 
